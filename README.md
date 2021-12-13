@@ -1,16 +1,17 @@
 # API design in Node.js with Express, v3
 > Scott Moss & Frontend Masters
 
-- [Resources](#resources)
-- [Requirements](#requirements)
-- [Course](#course)
-- [Exercises](#exercises)
-  - [Hello world Express](#hello-world-express)
-  - [Routing](#routing)
-  - [Create Schemas](#create-schemas)
-  - [Controllers](#controllers)
-  - [Authentication](#authentication)
-  - [Testing](#testing)
+- [API design in Node.js with Express, v3](#api-design-in-nodejs-with-express-v3)
+  - [Resources](#resources)
+  - [Suggested Tools](#suggested-tools)
+  - [Course](#course)
+  - [Exercises](#exercises)
+    - [Hello world Express](#hello-world-express)
+    - [Routing](#routing)
+    - [Create Schemas](#create-schemas)
+    - [Controllers](#controllers)
+    - [Authentication](#authentication)
+    - [Testing](#testing)
 
 ## Resources
 * [Slides](https://slides.com/scotups/api-design-in-node-with-express-v3)
