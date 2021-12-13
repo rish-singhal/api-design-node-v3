@@ -1,16 +1,17 @@
 # API design in Node.js with Express, v3
 > Scott Moss & Frontend Masters
 
-- [Resources](#resources)
-- [Requirements](#requirements)
-- [Course](#course)
-- [Exercises](#exercises)
-  - [Hello world Express](#hello-world-express)
-  - [Routing](#routing)
-  - [Create Schemas](#create-schemas)
-  - [Controllers](#controllers)
-  - [Authentication](#authentication)
-  - [Testing](#testing)
+- [API design in Node.js with Express, v3](#api-design-in-nodejs-with-express-v3)
+  - [Resources](#resources)
+  - [Suggested Tools](#suggested-tools)
+  - [Course](#course)
+  - [Exercises](#exercises)
+    - [Hello world Express](#hello-world-express)
+    - [Routing](#routing)
+    - [Create Schemas](#create-schemas)
+    - [Controllers](#controllers)
+    - [Authentication](#authentication)
+    - [Testing](#testing)
 
 ## Resources
 * [Slides](https://slides.com/scotups/api-design-in-node-with-express-v3)
@@ -39,20 +40,20 @@ Note: Before running the tests for the exercise, ensure that mongoDB is running.
 * branch - `lesson-1`
 
 In this lesson you'll be creating a simple Express based API in node, just to get your feet wet.
-- [ ] install dependencies with yarn (prefered for version locking) or npm
-- [ ] create a route that sends back some json
-- [ ] create a route that accepts json and logs it
-- [ ] start the server
+- [X] install dependencies with yarn (prefered for version locking) or npm
+- [X] create a route that sends back some json
+- [X] create a route that accepts json and logs it
+- [X] start the server
 
 ### Routing
 * branch - `lesson-2`
 * test command - `yarn test-routes` or `npm run test-routes`
 
 This exercise will have you creating routes and sub routers for our soon the be DB resources using Express routing and routers
-- [ ] create a router for the Item resource
-- [ ] create full crud routes and create placeholder controllers
-- [ ] mount router on the root server
-- [ ] ensure all tests pass by running test command
+- [X] create a router for the Item resource
+- [X] create full crud routes and create placeholder controllers
+- [X] mount router on the root server
+- [X] ensure all tests pass by running test command
 
 ### Create Schemas
 * branch - `lesson-3`
